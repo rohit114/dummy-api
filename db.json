@@ -1,0 +1,17 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" , "body": "A JavaScript application running in the browser can usually only access HTTP resources on the same domain (origin) that serves it."},
+    { "id": 2, "title": "Post 2" , "body": "One very important thing that needs CORS is ES Modules, recently introduced in modern browsers."},
+    { "id": 3, "title": "Post 3" , "body": "If you don’t set up a CORS policy on the server that allows to serve 3rd party origins, the request will fail."}
+  ],
+  "comments": [
+    { "id": 1, "body": "hey! nice post", "postId": 1 },
+    { "id": 2, "body": "nice post but having some doubt", "postId": 1 }
+  ],
+  "profile": {
+    "name": "Rohit Kumar",
+    "ID": "2014UCP1641,
+    "College": "MNIT Jaipur",
+    "phone": "9672421899
+  }
+}
